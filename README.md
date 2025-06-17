@@ -1,2 +1,5 @@
-# CI_web23
- latihan ci 3
+# Rinsy Uas
+ use: admin
+	pw: admin
+use: user
+	pw: user
